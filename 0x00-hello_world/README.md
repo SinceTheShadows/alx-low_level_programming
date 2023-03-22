@@ -1,19 +1,7 @@
-# Holberton School - 0x00-hello_world
-Compiling very simple programs with gcc. Learning the steps of compilation.
-## New commands / functions used:
-``gcc, printf, puts, putchar``
-## Helpful Links
-* [Linux Torvalds on C++](http://harmful.cat-v.org/software/c++/linus)
-* [10 reasons C is the still best](http://www.woohooitsbacon.com/10-reasons-why-c-is-still-the-best-programming-language/)
-* [Who is Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
-* [Brian Kernighan on C](https://www.youtube.com/watch?v=de2Hsvxaf8M)
-* [Why C programming is awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
-* [Learning to Program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
-* [Learning to Program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU)
-* [Understanding the C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
+
 
 ## Description of Files
-<h6>0-preprocessor</h6>
+0-preprocessor</h6>
 Script that runs a C file through the preprocessor and saves the result into another file.
 <h6>1-compiler</h6>
 Script that generates the assembly code of a C code and save it in an output file.
