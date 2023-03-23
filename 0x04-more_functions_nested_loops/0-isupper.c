@@ -7,7 +7,7 @@
  *
  */
 
-int _isupper(char c)
+int _isupper(int c)
 {
-  return(isupper(c))
+  return(isupper(c));
 }
