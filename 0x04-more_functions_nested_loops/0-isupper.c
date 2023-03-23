@@ -7,7 +7,7 @@
  *
  */
 
-char _isupper(char c)
+int _isupper(char c)
 {
   return(isupper(c))
 }
