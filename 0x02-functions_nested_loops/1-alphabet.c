@@ -2,10 +2,12 @@
 
 /**
  * print_alphabet prints the english alphabet from a-z.
+ * Return: Always 0 (Succes)
  */
 void print_alphabet(void)
 {
 	char c;
+	
 	for (c = 'a'; c <= 'z'; c++)
 	{
 		_putchar(c);
